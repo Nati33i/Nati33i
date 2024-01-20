@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning java and dart
 - 💞️ I’m looking to collaborate on developing apps and webs
-- 📫 Reach me by using nathanaelalayu@gmail.com
+- 📫 Reach me by using naty@admasdeveloper.com
 
 <!---
 Nati33i/Nati33i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
